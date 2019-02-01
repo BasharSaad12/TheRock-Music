@@ -3,4 +3,4 @@ prefix=A
 game= Aplay
 stayinchannel=true
 songinstatus=false
-token=-NcJAT11IYJmWnTQWJMXJNNjGjpSgq9n
+token=-NTQwNzY5MDA1NDM1MzU1MTM3.DzV62Q.FIucN_b-vSqfy6iGyCkmZRvXzcA
